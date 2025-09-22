@@ -16,7 +16,7 @@ depends="
 	linux-firmware-i915
 	linux-firmware-brcm
 	linux-firmware-intel
-	intel-media-driver
+	libva-intel-driver
 	intel-ucode
 	mesa-vulkan-intel
 "
